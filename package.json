@@ -1,0 +1,23 @@
+{
+  "name": "mizquotes_lambda",
+  "version": "1.0.0",
+  "description": "Miz quotes alexa skill lambda enabled",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockmasterflex69/mizquotes_lambda.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockmasterflex69/mizquotes_lambda/issues"
+  },
+  "homepage": "https://github.com/rockmasterflex69/mizquotes_lambda#readme"
+}
